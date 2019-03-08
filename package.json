@@ -1,0 +1,15 @@
+{
+    "name": "lcd-debug",
+    "version": "1.0.0",
+    "description": "Touch display debug tool",
+    "main": "index.js",
+    "scripts": {
+        "start": "http-server public/"
+    },
+    "keywords": [],
+    "author": "Fernando Araújo",
+    "license": "ISC",
+    "dependencies": {
+        "http-server": "^0.11.1"
+    }
+}

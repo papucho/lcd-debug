@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+}
+
+.container {
+    height: 320px;
+    width: 480px;
+    overflow: visible;
+    font-size: 0;
+}
